@@ -31,7 +31,6 @@
 	/**
 	 * Constructor.
 	 *  Takes the model, its linear term, maxValues, minValues, the goal and the investment as paremeters
-	 *  maxValues and minValeus are
 	 *
 	 */
 	function Evolver(
